@@ -27,6 +27,8 @@ In order to create this app I needed to set up a brand new Ruby On Rails Environ
   
 * Made edits to application_controller.rb to render html page that read, "Hello Teachstone! Hire Me!"
 
+* Edited routes.rb to relect change.
+
 * Pushed updated code to Repo:
   - git status
   - git commit -m “filename” or
@@ -41,7 +43,8 @@ In order to create this app I needed to set up a brand new Ruby On Rails Environ
 * Using M-CAM's AWS Account I set up an AWS IAM to plug into Cloud66 for Deployment. Deployed new EC2 instance called Hire.Me running in AWS.
 
 * Finished ahead of schedule and wanted to try to load an image instead of the Hire Me text.
-  - Followed a few articles to dead ends but found one that made it happen - http://www.peoplecancode.com/tutorials/how-to-create-static-pages-in-ruby-on-rails-application
+
+* Followed a few articles to dead ends but found one that made it happen - http://www.peoplecancode.com/tutorials/how-to-create-static-pages-in-ruby-on-rails-application
   
 * Deployed new Rails Stack with Cloud66 called Ruby Project. 
 
